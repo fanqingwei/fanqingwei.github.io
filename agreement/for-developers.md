@@ -35,7 +35,7 @@ We reserve the right at any time to modify or discontinue the Service (or any pa
 We shall not be liable to you or to any third party for any modification, price change, suspension, or discontinuance of the Service.\
 \
 **SECTION 5 - PRODUCTS OR SERVICES (if applicable)**\
-Certain products or Services may be available exclusively online through the website. These products or Services may have limited quantities and are subject to return or exchange only according to our Refund Policy: \[LINK TO REFUND POLICY]\
+Certain products or Services may be available exclusively online through the website. These products or Services may have limited quantities and are subject to return or exchange only according to our Refund Policy: _**\[LINK TO REFUND POLICY]**_\
 We have made every effort to display as accurately as possible the colors and images of our products that appear at the store. We cannot guarantee that your computer monitor's display of any color will be accurate.\
 We reserve the right but are not obligated, to limit the sales of our products or Services to any person, geographic region, or jurisdiction. We may exercise this right on a case-by-case basis. We reserve the right to limit the quantities of any products or Services that we offer. All descriptions of products or product pricing are subject to change at any time without notice, at the sole discretion of us. We reserve the right to discontinue any product at any time. Any offer for any product or service made on this site is void where prohibited.\
 We do not warrant that the quality of any products, Services, information, or other material purchased or obtained by you will meet your expectations, or that any errors in the Service will be corrected.\
@@ -45,7 +45,7 @@ We reserve the right to refuse any order you place with us. We may, in our sole 
 \
 You agree to provide current, complete, and accurate purchase and account information for all purchases made at our store. You agree to promptly update your account and other information, including your email address credit card numbers, and expiration dates, so that we can complete your transactions and contact you as needed.\
 \
-For more details, please review our Refund Policy: \[LINK TO REFUND POLICY]\
+For more details, please review our Refund Policy: _**\[LINK TO REFUND POLICY]**_\
 \
 **SECTION 7 - OPTIONAL TOOLS**\
 We may provide you with access to third-party tools over which we neither monitor nor have any control or input.\
