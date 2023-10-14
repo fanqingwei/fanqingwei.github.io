@@ -1,6 +1,6 @@
 # 👮 Privacy Policy
 
-Hangzhou YuzhouBaba Trading Co., Ltd. ("HOLA"/"HOLAdropshipping"/"we"/"us"/"our") is committed to protecting your privacy. We make the website located at https://www.holadropshipping.com/ ​("​ Website"​), the HOLA application available on Shopify, WooCommerce and other providers (the ​"HOLAdropshipping App"​), available together with the HOLA services (“​Services”​). ​As you use our Services, we want you to be clear how we’re using information and the ways in which you can protect your privacy.
+Hangzhou YuzhouBaba Trading Co., Ltd. ("HOLAPOD"/"we"/"us"/"our") is committed to protecting your privacy. We make the website located at https://www.holadropshipping.com/ ​("​ Website"​), the HOLA application available on Shopify, WooCommerce, and other providers (the ​"HOLAPOD App"​), known together with the HOLA services (“​Services”​). ​As you use our Services, we want you to be clear about how we’re using information and how you can protect your privacy.
 
 
 
@@ -300,5 +300,5 @@ Effective date: July 6th, 2020.
 </details>
 
 {% hint style="success" %}
-HOLA always makes an effort to provide the best service. If you have any other questions, please feel free to contact us at Email: support@holadropshipping.com
+HOLAPOD always makes an effort to provide the best service. If you have any other questions, please feel free to contact us at Email: support@holadropshipping.com
 {% endhint %}
