@@ -10,10 +10,7 @@
 ## Guides
 
 * [1 Product Template Setting](guides/making-a-post.md)
-
-***
-
-* [2 Page](page.md)
+* [2 Theme Setting](guides/making-a-post-1.md)
 
 ## Fundamentals
 
