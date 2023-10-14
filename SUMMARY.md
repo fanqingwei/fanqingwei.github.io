@@ -7,10 +7,13 @@
 * [💡 What we do](overview/what-we-do.md)
 * [✨ Our Features](overview/our-features.md)
 
-## Product Guides
+## Guides
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [1 Product Template Setting](guides/making-a-post.md)
+
+***
+
+* [2 Page](page.md)
 
 ## Fundamentals
 
@@ -21,4 +24,4 @@
 ## 🦸♀ AGREEMENT
 
 * [👮 Privacy Policy](agreement/for-designers.md)
-* [👨🏫 Terms of Service](agreement/for-developers.md)
+* [🗒 Terms of Service](agreement/for-developers.md)

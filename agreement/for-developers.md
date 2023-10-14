@@ -1,4 +1,4 @@
-# 👨🏫 Terms of Service
+# 🗒 Terms of Service
 
 **Last Updated: October 15, 2023**
 

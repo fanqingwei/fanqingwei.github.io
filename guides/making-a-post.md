@@ -1,4 +1,4 @@
-# 📪 Making a post
+# 1 Product Template Setting
 
 ## Step 1 - Start journalling
 
