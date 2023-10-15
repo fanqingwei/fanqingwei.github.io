@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome HOLAPOD](README.md)
+* [👋 Welcome HOLA POD](README.md)
 
 ## Overview
 
