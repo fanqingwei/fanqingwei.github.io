@@ -1,18 +1,36 @@
 # 2 Theme Setting
 
-## Step 1 - Start journalling
+## &#x20;✅- Product Page Button Customize
 
-Donec sed odio dui. Curabitur blandit tempus porttitor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla. Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean lacinia bibendum nulla sed consectetur.
+Freely customize button layout, including text, color, size, etc. to match your theme website settings.
 
-<figure><img src="../.gitbook/assets/TinySnap-2023-10-14-21.40.20.png" alt=""><figcaption></figcaption></figure>
+Steps:
 
-## Step 2 - Create Post
+1. Click on 'Shopify-Themes-Customize.'
+2. Search for a POD product page.
+3. Click the 'HOLAPOD Design Button' to begin designing.
 
-Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-14.18.29.png" alt=""><figcaption></figcaption></figure>
 
-![](https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw2fHxwb3N0fGVufDB8fHx8MTY2MDU4ODAzMg\&ixlib=rb-1.2.1\&q=80)
+## ✅ - HOLA POD Theme Settings
 
+Freely customize the POD product page layout, including text, colors, borders, etc., to match your theme website settings on any device.
 
+Steps:
+
+1. Click on 'HOLA POD App-Theme Settings.'
+2. Customize the Header, Colors, and more.
+3. Save your changes.
+
+<div>
+
+<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-14.38.48.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-14.40.54.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 
 
