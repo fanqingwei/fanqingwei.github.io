@@ -1,24 +1,26 @@
 # 1 Product Template Setting
 
-## Step 1 - Start journalling
+## Step 1 - Create a POD Template
 
-Donec sed odio dui. Curabitur blandit tempus porttitor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla. Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean lacinia bibendum nulla sed consectetur.
+Steps:
 
-
+1. Click on 'HOLA POD App-Template.'
+2. Click 'Create.'
+3. Begin designing your custom template.
 
 <div>
 
-<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.09.03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.09.03.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Click 'Create'.</mark></p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.11.54.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.11.54.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Add text, images, and other content blocks as needed.</mark></p></figcaption></figure>
 
 </div>
 
 <div>
 
-<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.17.02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.17.02.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Customize colors, fonts, sizes, etc. as needed.</mark></p></figcaption></figure>
 
  
 
@@ -28,7 +30,7 @@ Donec sed odio dui. Curabitur blandit tempus porttitor. Vivamus sagittis lacus v
 
 <div>
 
-<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.22.36.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.22.36.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Drag to reorder blocks as needed.</mark></p></figcaption></figure>
 
  
 
@@ -38,7 +40,7 @@ Donec sed odio dui. Curabitur blandit tempus porttitor. Vivamus sagittis lacus v
 
 <div>
 
-<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.24.59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.24.59.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Preview template.</mark></p></figcaption></figure>
 
  
 
@@ -50,7 +52,15 @@ Donec sed odio dui. Curabitur blandit tempus porttitor. Vivamus sagittis lacus v
 
 
 
+## Step 2 - Apply the Template to the Product
 
+Steps:
+
+1. Click 'HOLA POD App-POD Product.'
+2. Click 'Create.'
+3. Click 'Sync' online products.
+4. Select the product.
+5. Apply the template and usage type to the product.
 
 <div>
 
@@ -58,29 +68,36 @@ Donec sed odio dui. Curabitur blandit tempus porttitor. Vivamus sagittis lacus v
 
  
 
-<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.05.08.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.05.08.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Sync online products and select products.</mark></p></figcaption></figure>
 
 </div>
 
-<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.32.23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.32.23.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Select the template and usage type as needed.</mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.42.39.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.42.39.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Make template adjustments as needed.</mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.45.03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.45.03.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Preview.</mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.49.06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.49.06.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Change the template usage type as needed. For example, apply the template only to a certain variant of the product.</mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.51.57.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.51.57.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Check the status.</mark></p></figcaption></figure>
 
 
+
+## Step 3 - Place Orders Online
+
+Steps:
+
+1. Customers select the product model.
+2. Begin the design.
+3. Complete and confirm the design.
+4. Add to cart and checkout.
 
 <figure><img src="../.gitbook/assets/TinySnap-2023-10-15-16.01.19.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/TinySnap-2023-10-15-16.05.01.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/TinySnap-2023-10-15-16.06.13.png" alt=""><figcaption></figcaption></figure>
-
-
 
 <div>
 
@@ -93,14 +110,6 @@ Donec sed odio dui. Curabitur blandit tempus porttitor. Vivamus sagittis lacus v
 </div>
 
 
-
-
-
-## Step 2 - Create Post
-
-Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-
-![](https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw2fHxwb3N0fGVufDB8fHx8MTY2MDU4ODAzMg\&ixlib=rb-1.2.1\&q=80)
 
 
 
