@@ -12,13 +12,11 @@
 * [1 Product Template Setting](guides/making-a-post.md)
 * [2 Theme Setting](guides/making-a-post-1.md)
 
-## Fundamentals
+## FAQ
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [❓ FAQ](faq/getting-set-up.md)
 
-## 🦸♀ AGREEMENT
+## Info
 
-* [👮 Privacy Policy](agreement/for-designers.md)
-* [🗒 Terms of Service](agreement/for-developers.md)
+* [👮 Privacy Policy](info/for-designers.md)
+* [🗒 Terms of Service](info/for-developers.md)
