@@ -113,7 +113,7 @@ Steps:
 
 
 
-<figure><img src="../.gitbook/assets/14.png" alt=""><figcaption><p>Order checking. <mark style="color:red;background-color:yellow;">Click to check product customization information.</mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/14.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Order checking. Click 'Link' to check product customization information.</mark></p></figcaption></figure>
 
 <div>
 
