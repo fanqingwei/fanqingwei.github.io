@@ -14,33 +14,33 @@ Steps:
 
  
 
-<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.11.54.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Add text, images, and other content blocks as needed.</mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Add text, images, and other content blocks as needed.</mark></p></figcaption></figure>
 
 </div>
 
 <div>
 
-<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.17.02.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Customize colors, fonts, sizes, etc. as needed.</mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Customize colors, fonts, positions, etc. as needed.</mark></p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.18.55 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div>
 
-<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.22.36.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Drag to reorder blocks as needed.</mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/4.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Drag to reorder blocks as needed.</mark></p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.24.09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div>
 
-<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.24.59.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Preview template.</mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/6.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Preview template.</mark></p></figcaption></figure>
 
  
 
@@ -74,7 +74,7 @@ Steps:
 
 <figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.32.23.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Select the template and usage type as needed.</mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.42.39.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Make template adjustments as needed.</mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/7.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Make template adjustments as needed.</mark></p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.45.03.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Preview.</mark></p></figcaption></figure>
 
