@@ -44,7 +44,7 @@ Steps:
 
  
 
-<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.26.02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -76,11 +76,13 @@ Steps:
 
 <figure><img src="../.gitbook/assets/7.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Make template adjustments as needed.</mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.45.03.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Preview.</mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/8.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Preview.</mark></p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.49.06.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Change the template usage type as needed. For example, apply the template only to a certain variant of the product.</mark></p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/TinySnap-2023-10-15-15.51.57.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Check the status.</mark></p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/9.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">POD product list: delete, activate, deactivate.</mark></p></figcaption></figure>
 
 
 
@@ -88,32 +90,44 @@ Steps:
 
 Steps:
 
-1. Customers select the product model.
-2. Begin the design.
+1. Choose the product variant.
+2. Start designing the product.
 3. Complete and confirm the design.
 4. Add to cart and checkout.
 
 <figure><img src="../.gitbook/assets/TinySnap-2023-10-15-16.01.19.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-16.05.01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/10.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Designing.</mark></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-16.06.13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/11.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Preview.</mark></p></figcaption></figure>
 
 <div>
 
-<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-16.07.13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/12.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Add to cart.</mark></p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/TinySnap-2023-10-15-16.08.11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/13.png" alt=""><figcaption><p><mark style="color:red;background-color:yellow;">Check out.</mark></p></figcaption></figure>
 
 </div>
 
 
 
+<figure><img src="../.gitbook/assets/14.png" alt=""><figcaption><p>Order checking. <mark style="color:red;background-color:yellow;">Click to check product customization information.</mark></p></figcaption></figure>
 
+<div>
 
+<figure><img src="../.gitbook/assets/15.png" alt=""><figcaption></figcaption></figure>
 
+ 
+
+<figure><img src="../.gitbook/assets/16.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/17.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 
 
