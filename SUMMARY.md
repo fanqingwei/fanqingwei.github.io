@@ -9,14 +9,14 @@
 
 ## Guides
 
-* [1 Product Template Setting](guides/making-a-post.md)
-* [2 Theme Setting](guides/making-a-post-1.md)
+* [1 Product Template Setting](guides/product-template-setting.md)
+* [2 Theme Setting](guides/theme-setting.md)
 
 ## FAQ
 
-* [❓ FAQ](faq/getting-set-up.md)
+* [❓ FAQ](faq/faqs.md)
 
 ## Info
 
-* [👮 Privacy Policy](info/for-designers.md)
-* [🗒 Terms of Service](info/for-developers.md)
+* [👮 Privacy Policy](info/privacy-policy.md)
+* [🗒 Terms of Service](info/terms-of-service.md)
