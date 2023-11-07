@@ -8,3 +8,9 @@ HOLA POD empowers you with limitless customization possibilities, allowing you t
 
 {% embed url="https://www.youtube.com/watch?list=PLsKA1qsqXxV5PXdc8Chjzgb6O7FWlK6LK&v=VTgwzFytF0E" %}
 
+
+
+> HOLAPOD always makes an effort to provide the best service. If you have any other questions, please feel free to contact us at Email: <mark style="color:green;">**support@holadropshipping.com**</mark>
+
+
+
