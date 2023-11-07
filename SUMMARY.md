@@ -2,10 +2,9 @@
 
 * [👋 Welcome HOLA POD](README.md)
 
-## Overview
+## Highlights
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 Key Features](highlights/what-we-do.md)
 
 ## Guides
 
