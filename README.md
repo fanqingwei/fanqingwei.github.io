@@ -10,7 +10,7 @@ HOLA POD: Easy Custom Product empowers you with limitless customization possibil
 
 
 
-> HOLAPOD always makes an effort to provide the best service. If you have any other questions, please feel free to contact us at Email: <mark style="color:green;">**support@holadropshipping.com**</mark>
+> HOLA POD always makes an effort to provide the best service. If you have any other questions, please feel free to contact us at Email: <mark style="color:green;">**support@holadropshipping.com**</mark>
 
 
 
