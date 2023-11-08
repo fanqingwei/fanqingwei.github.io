@@ -3,7 +3,7 @@
 **Last Updated: October 15, 2023**
 
 **OVERVIEW**\
-This website is operated by Hangzhou YuzhouBaba Trading Co., Ltd. ("**HOLAPOD**"). Throughout the site, the terms “we”, “us” and “our” refer to HOLAPOD. HOLAPOD offers this website, including all information, tools, and Services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies, and notices stated here.\
+This website is operated by Hangzhou YuzhouBaba Trading Co., Ltd. ("**HOLA POD: Easy Custom Product**"). Throughout the site, the terms “we”, “us” and “our” refer to HOLAPOD, HOLA POD: Easy Custom Product, and HOLA POD. HOLAPOD offers this website, including all information, tools, and Services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies, and notices stated here.\
 \
 By visiting our site and/ or purchasing something from us, you engage in our “Service” and agree to be bound by the following terms and conditions (“Terms of Service”, “Terms”), including those additional terms and conditions and policies referenced herein and/or available by hyperlink. These Terms of Service apply to all users of the site, including without limitation users who are browsers, vendors, customers, merchants, and/ or contributors of content.\
 \
@@ -32,20 +32,20 @@ This site may contain certain historical information. Historical information, ne
 **SECTION 4 - MODIFICATIONS TO THE SERVICE AND PRICES**\
 Prices for our products are subject to change without notice.\
 We reserve the right at any time to modify or discontinue the Service (or any part or content thereof) without notice at any time.\
-We shall not be liable to you or to any third party for any modification, price change, suspension, or discontinuance of the Service.\
+We shall not be liable to you or any third party for any modification, price change, suspension, or discontinuance of the Service.\
 \
 **SECTION 5 - PRODUCTS OR SERVICES (if applicable)**\
-Certain products or Services may be available exclusively online through the website. These products or Services may have limited quantities and are subject to return or exchange only according to our Refund Policy: _**\[LINK TO REFUND POLICY]**_\
+Certain products or Services may be available exclusively online through the website. These products or Services may have limited quantities and are subject to return or exchange only according to our Refund Policy: [_**\[LINK TO REFUND POLICY\]**_](https://docs.pod.holadropshipping.com/faq/faqs)\
 We have made every effort to display as accurately as possible the colors and images of our products that appear at the store. We cannot guarantee that your computer monitor's display of any color will be accurate.\
 We reserve the right but are not obligated, to limit the sales of our products or Services to any person, geographic region, or jurisdiction. We may exercise this right on a case-by-case basis. We reserve the right to limit the quantities of any products or Services that we offer. All descriptions of products or product pricing are subject to change at any time without notice, at the sole discretion of us. We reserve the right to discontinue any product at any time. Any offer for any product or service made on this site is void where prohibited.\
 We do not warrant that the quality of any products, Services, information, or other material purchased or obtained by you will meet your expectations, or that any errors in the Service will be corrected.\
 \
 **SECTION 6 - ACCURACY OF BILLING AND ACCOUNT INFORMATION**\
-We reserve the right to refuse any order you place with us. We may, in our sole discretion, limit or cancel quantities purchased per person, per household, or per order. These restrictions may include orders placed by or under the same customer account, the same credit card, and/or orders that use the same billing and/or shipping address. In the event that we make a change to or cancel an order, we may attempt to notify you by contacting the e‑mail and/or billing address/phone number provided at the time the order was made. We reserve the right to limit or prohibit orders that, in our sole judgment, appear to be placed by dealers, resellers, or distributors.\
+We reserve the right to refuse any order you place with us. We may, in our sole discretion, limit or cancel quantities purchased per person, per household, or order. These restrictions may include orders placed by or under the same customer account, the same credit card, and/or orders that use the same billing and/or shipping address. If we make a change to or cancel an order, we may attempt to notify you by contacting the e‑mail and/or billing address/phone number provided at the time the order was made. We reserve the right to limit or prohibit orders that, in our sole judgment, appear to be placed by dealers, resellers, or distributors.\
 \
 You agree to provide current, complete, and accurate purchase and account information for all purchases made at our store. You agree to promptly update your account and other information, including your email address credit card numbers, and expiration dates, so that we can complete your transactions and contact you as needed.\
 \
-For more details, please review our Refund Policy: _**\[LINK TO REFUND POLICY]**_\
+For more details, please review our Refund Policy: [_**\[LINK TO REFUND POLICY\]**_](https://docs.pod.holadropshipping.com/faq/faqs)\
 \
 **SECTION 7 - OPTIONAL TOOLS**\
 We may provide you with access to third-party tools over which we neither monitor nor have any control or input.\
@@ -55,16 +55,16 @@ We may also, in the future, offer new Services and/or features through the websi
 \
 **SECTION 8 - THIRD-PARTY LINKS**\
 Certain content, products, and Services available via our Service may include materials from third parties.\
-Third-party links on this site may direct you to third-party websites that are not affiliated with us. We are not responsible for examining or evaluating the content or accuracy and we do not warrant and will not have any liability or responsibility for any third-party materials or websites, or for any other materials, products, or Services of third parties.\
+Third-party links on this site may direct you to third-party websites that are not affiliated with us. We are not responsible for examining or evaluating the content or accuracy and we do not warrant and will not have any liability or responsibility for any third-party materials or websites, or any other materials, products, or Services of third parties.\
 We are not liable for any harm or damages related to the purchase or use of goods, Services, resources, content, or any other transactions made in connection with any third-party websites. Please review carefully the third-party's policies and practices and make sure you understand them before you engage in any transaction. Complaints, claims, concerns, or questions regarding third-party products should be directed to the third party.\
 \
 **SECTION 9 - USER COMMENTS, FEEDBACK AND OTHER SUBMISSIONS**\
 If, at our request, you send certain specific submissions (for example contest entries) or without a request from us, you send creative ideas, suggestions, proposals, plans, or other materials, whether online, by email, by postal mail, or otherwise (collectively, 'comments'), you agree that we may, at any time, without restriction, edit, copy, publish, distribute, translate and otherwise use in any medium any comments that you forward to us. We are and shall be under no obligation (1) to maintain any comments in confidence; (2) to pay compensation for any comments; or (3) to respond to any comments.\
-We may, but have no obligation to, monitor, edit or remove content that we determine in our sole discretion to be unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene, or otherwise objectionable or violates any party’s intellectual property or these Terms of Service.\
-You agree that your comments will not violate any right of any third party, including copyright, trademark, privacy, personality, or other personal or proprietary right. You further agree that your comments will not contain libelous or otherwise unlawful, abusive, or obscene material, or contain any computer virus or other malware that could in any way affect the operation of the Service or any related website. You may not use a false e‑mail address, pretend to be someone other than yourself, or otherwise mislead us or third parties as to the origin of any comments. You are solely responsible for any comments you make and their accuracy. We take no responsibility and assume no liability for any comments posted by you or any third party.\
+We may, but have no obligation to, monitor, edit, or remove content that we determine in our sole discretion to be unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene, or otherwise objectionable or violates any party’s intellectual property or these Terms of Service.\
+You agree that your comments will not violate any right of any third party, including copyright, trademark, privacy, personality, or other personal or proprietary right. You further agree that your comments will not contain libelous or otherwise unlawful, abusive, or obscene material, or contain any computer virus or other malware that could in any way affect the operation of the Service or any related website. You may not use a false e‑mail address, pretend to be someone other than yourself, or otherwise mislead us or third-parties as to the origin of any comments. You are solely responsible for any comments you make and their accuracy. We take no responsibility and assume no liability for any comments posted by you or any third party.\
 \
 **SECTION 10 - PERSONAL INFORMATION**\
-Your submission of personal information through the store is governed by our Privacy Policy, which can be viewed here: \[LINK TO PRIVACY POLICY]\
+Your submission of personal information through the store is governed by our Privacy Policy, which can be viewed here: [\[LINK TO PRIVACY POLICY\]](https://docs.pod.holadropshipping.com/info/privacy-policy)\
 \
 **SECTION 11 - ERRORS, INACCURACIES AND OMISSIONS**\
 Occasionally there may be information on our site or in the Service that contains typographical errors, inaccuracies, or omissions that may relate to product descriptions, pricing, promotions, offers, product shipping charges, transit times, and availability. We reserve the right to correct any errors, inaccuracies, or omissions, and to change or update information or cancel orders if any information in the Service or on any related website is inaccurate at any time without prior notice (including after you have submitted your order).\
@@ -76,7 +76,7 @@ In addition to other prohibitions as set forth in the Terms of Service, you are 
 **SECTION 13 - DISCLAIMER OF WARRANTIES; LIMITATION OF LIABILITY**\
 We do not guarantee, represent, or warrant that your use of our Service will be uninterrupted, timely, secure, or error-free.\
 We do not warrant that the results that may be obtained from the use of the Service will be accurate or reliable.\
-You agree that from time to time we may remove the Service for indefinite periods of time or cancel the Service at any time, without notice to you.\
+You agree that from time to time we may remove the Service for indefinite periods or cancel the Service at any time, without notice to you.\
 You expressly agree that your use of, or inability to use, the Service is at your sole risk. The Service and all products and Services delivered to you through the Service are (except as expressly stated by us) provided 'as is' and 'as available' for your use, without any representation, warranties, or conditions of any kind, either express or implied, including all implied warranties or conditions of merchantability, merchantable quality, fitness for a particular purpose, durability, title, and non-infringement.\
 In no case shall HOLAPOD, our directors, officers, employees, affiliates, agents, contractors, interns, suppliers, Service providers, or licensors be liable for any injury, loss, claim, or any direct, indirect, incidental, punitive, special, or consequential damages of any kind, including, without limitation lost profits, lost revenue, lost savings, loss of data, replacement costs, or any similar damages, whether based in contract, tort (including negligence), strict liability or otherwise, arising from your use of any of the Service or any products procured using the Service, or for any other claim related in any way to your use of the Service or any product, including, but not limited to any errors or omissions in any content, or any loss or damage of any kind incurred as a result of the use of the Service or any content (or product) posted, transmitted, or otherwise made available via the Service, even if advised of their possibility. Because some states or jurisdictions do not allow the exclusion or the limitation of liability for consequential or incidental damages, in such states or jurisdictions, our liability shall be limited to the maximum extent permitted by law.\
 \
@@ -84,20 +84,20 @@ In no case shall HOLAPOD, our directors, officers, employees, affiliates, agents
 You agree to indemnify, defend and hold harmless HOLAPOD and our parent, subsidiaries, affiliates, partners, officers, directors, agents, contractors, licensors, Service providers, subcontractors, suppliers, interns, and employees, harmless from any claim or demand, including reasonable attorneys’ fees, made by any third-party due to or arising out of your breach of these Terms of Service or the documents they incorporate by reference, or your violation of any law or the rights of a third-party.\
 \
 **SECTION 15 - SEVERABILITY**\
-In the event that any provision of these Terms of Service is determined to be unlawful, void, or unenforceable, such provision shall nonetheless be enforceable to the fullest extent permitted by applicable law, and the unenforceable portion shall be deemed to be severed from these Terms of Service, such determination shall not affect the validity and enforceability of any other remaining provisions.\
+If any provision of these Terms of Service is determined to be unlawful, void, or unenforceable, such provision shall nonetheless be enforceable to the fullest extent permitted by applicable law, and the unenforceable portion shall be deemed to be severed from these Terms of Service, such determination shall not affect the validity and enforceability of any other remaining provisions.\
 \
 **SECTION 16 - TERMINATION**\
-The obligations and liabilities of the parties incurred prior to the termination date shall survive the termination of this agreement for all purposes.\
+The obligations and liabilities of the parties incurred before the termination date shall survive the termination of this agreement for all purposes.\
 These Terms of Service are effective unless and until terminated by either you or us. You may terminate these Terms of Service at any time by notifying us that you no longer wish to use our Services, or when you cease using our site.\
 If in our sole judgment, you fail, or we suspect that you have failed, to comply with any term or provision of these Terms of Service, we also may terminate this agreement at any time without notice and you will remain liable for all amounts due up to and including the date of termination; and/or accordingly may deny you access to our Services (or any part thereof).\
 \
 **SECTION 17 - ENTIRE AGREEMENT**\
 The failure of us to exercise or enforce any right or provision of these Terms of Service shall not constitute a waiver of such right or provision.\
-These Terms of Service and any policies or operating rules posted by us on this site or with respect to the Service constitute the entire agreement and understanding between you and us and govern your use of the Service, superseding any prior or contemporaneous agreements, communications, and proposals, whether oral or written, between you and us (including, but not limited to, any prior versions of the Terms of Service).\
+These Terms of Service and any policies or operating rules posted by us on this site or concerning the Service constitute the entire agreement and understanding between you and us and govern your use of the Service, superseding any prior or contemporaneous agreements, communications, and proposals, whether oral or written, between you and us (including, but not limited to, any prior versions of the Terms of Service).\
 Any ambiguities in the interpretation of these Terms of Service shall not be construed against the drafting party.\
 \
 **SECTION 18 - GOVERNING LAW**\
-These Terms of Service and any separate agreements whereby we provide you Services shall be governed by and construed in accordance with the laws of China.\
+These Terms of Service and any separate agreements whereby we provide you Services shall be governed by and construed by the laws of China.\
 \
 **SECTION 19 - CHANGES TO TERMS OF SERVICE**\
 You can review the most current version of the Terms of Service at any time on this page.\
@@ -119,5 +119,5 @@ Postal address: No. 38, Gaoji Street, Xihu District, Hangzhou City, Zhejiang Pro
 
 
 {% hint style="success" %}
-HOLAPOD always makes an effort to provide the best service. If you have any other questions, please feel free to contact us at Email: support@holadropshipping.com
+HOLA POD always makes an effort to provide the best service. If you have any other questions, please feel free to contact us at Email: support@holadropshipping.com
 {% endhint %}

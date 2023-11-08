@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome HOLA POD](README.md)
+* [👋 Welcome HOLA POD: Easy Custom Product](README.md)
 
 ## Highlights
 

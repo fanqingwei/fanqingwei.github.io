@@ -2,14 +2,14 @@
 
 **Privacy Commitment**
 
-At Hangzhou YuzhouBaba Trading Co., Ltd. ("HOLAPOD"/"we"/"us"/"our"), safeguarding your privacy is our top priority. This commitment extends to the website accessible at [https://pod.holadropshipping.com/](https://pod.holadropshipping.com/) ("Website"), the HOLAPOD application accessible through Shopify, WooCommerce, and other providers (the "HOLAPOD App"), and collectively, the HOLAPOD services ("Services"). As you utilize our Services, we aim to provide transparency on information usage and offer guidance on preserving your privacy.
+At Hangzhou YuzhouBaba Trading Co., Ltd. (referred to as "HOLA POD: Easy Custom Product", "HOLA POD", "HOLAPOD," "we," "us," or "our"), your privacy is our utmost concern. This commitment to your privacy extends to our entire range of offerings, including the website found at [https://pod.holadropshipping.com](https://pod.holadropshipping.com/) (referred to as the "Website"), the HOLA POD application accessible via Shopify, WooCommerce, and other providers (referred to as the "HOLA POD: Easy Custom Product"), and collectively, the HOLAPOD services (referred to as the "Services"). As you use our Services, we are dedicated to providing transparency regarding how your information is used and offering guidance on how to protect your privacy.
 
 
 
 **Our Privacy Policy Covers:**
 
 * The information we collect and the reasons behind its collection.
-* How we utilize the collected information and the circumstances under which we disclose it.
+* How we utilize the collected data and the circumstances we disclose it.
 * Instructions on accessing and updating your personal information.
 
 
@@ -336,5 +336,5 @@ We strive to respond to all valid requests within one month. On occasion, if a r
 </details>
 
 {% hint style="success" %}
-HOLAPOD always makes an effort to provide the best service. If you have any other questions, please feel free to contact us at Email: support@holadropshipping.com
+HOLA POD always makes an effort to provide the best service. If you have any other questions, please feel free to contact us at Email: support@holadropshipping.com
 {% endhint %}

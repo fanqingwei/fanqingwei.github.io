@@ -1,6 +1,6 @@
 # 💡 Key Features
 
-**Key Features of HOLA POD:**
+**Key Features of HOLA POD: Easy Custom Product:**
 
 1. **Limitless Customization:** Create unlimited POD templates and apply them to various products or specific variants, providing endless customization options for your store.
 2. **Custom Theme Settings:** Tailor your store's appearance to match your brand's style with custom buttons and theme settings, ensuring a cohesive online presence.
@@ -11,7 +11,7 @@
 7. **Improved Customer Experience:** Seamlessly enhance the customer experience by simplifying the print-on-demand (POD) process with speed, efficiency, and convenience.
 8. **Speed Up Your POD Process with Ease:** Streamline the POD process with speed and efficiency, making it easier for both merchants and customers.
 
-HOLA POD offers a comprehensive feature set to empower online store owners with advanced customization and personalization options.
+HOLA POD: Easy Custom Product offers a comprehensive feature set to empower online store owners with advanced customization and personalization options.
 
 
 
